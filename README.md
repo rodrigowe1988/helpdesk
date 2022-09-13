@@ -12,9 +12,9 @@ An app created using the technologies of Java/Spring, Angular, Heroku, h2 for de
   <img src="https://github.com/ValdirCezar/helpdesk-back/blob/master/assets/img/editado.gif?raw=true" />
 
 <p align="center">
-	<a href="https://github.com/rodrigowe1988"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/rodrigo-weber-41446b74/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/yogarodrigo/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
+	<a href="https://github.com/rodrigowe1988"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="blank"/></a>
+	<a href="https://www.linkedin.com/in/rodrigo-weber-41446b74/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="blank"/></a>
+	<a href="https://www.instagram.com/yogarodrigo/" target="blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
 </p>
 
 <p align="center">📗Quanto mais aprendo, mais a sorte me acompanha🍀</p>
