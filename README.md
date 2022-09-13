@@ -3,7 +3,7 @@ An app created using the technologies of Java/Spring, Angular, Heroku, h2 for de
 
 
 <div>
-<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif?raw=true" width="30px"></h2>
+<h1 align="center"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/rodrigowe1988/helpdesk/blob/main/editado.gif?raw=true" width="30px"></h2>
 </div >
 
 <h2 align="center"> Este é um sistema de Help Desk desenvolvido nas horas vagas</h2>
@@ -11,19 +11,10 @@ An app created using the technologies of Java/Spring, Angular, Heroku, h2 for de
 <p align="center">
   <img src="https://github.com/ValdirCezar/helpdesk-back/blob/master/assets/img/editado.gif?raw=true" />
 
-<h2 align="center"> Modelo conceitual do banco</h2>
-
 <p align="center">
-  <img src="https://github.com/ValdirCezar/helpdesk-front/blob/master/src/assets/img/Modelo%20conceitual.png?raw=true" />
-
-
-
-<p align="center">
-	<a href="https://github.com/ValdirCezar"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
-	<a href="https://www.linkedin.com/in/ValdirCezar/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-	<a href="https://www.instagram.com/yogarodrigo/"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram"/></a>
-
-	<a href="https://www.youtube.com/c/DicasdeumDEV"><img src="https://img.icons8.com/bubbles/50/000000/youtube.png" alt="youtube"/></a>
+	<a href="https://github.com/rodrigowe1988" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub" target="_blank"/></a>
+	<a href="https://www.linkedin.com/in/rodrigo-weber-41446b74/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn" target="_blank"/></a>
+	<a href="https://www.instagram.com/yogarodrigo/" target="_blank"><img src="https://img.icons8.com/bubbles/50/000000/instagram.png" alt="Instagram" target="_blank"/></a>
 </p>
 
 <p align="center">📗Quanto mais aprendo, mais a sorte me acompanha🍀</p>
@@ -39,4 +30,3 @@ An app created using the technologies of Java/Spring, Angular, Heroku, h2 for de
 <img src="https://img.shields.io/badge/Git flow%20-%23F7DF1E.svg?&style=for-the-badge&color=000" />&nbsp;&nbsp;
 </p>
 
-<p align="center"> <a href="https://github.com/ValdirCezar/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=valdircezar&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdircezar&hide=html&hide_title=true&hide_border=true&layout=compact&langs_count=7&exclude_repo=comp426,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=
