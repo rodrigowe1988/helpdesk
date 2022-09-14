@@ -3,6 +3,7 @@ package com.webertech.helpdesk.domain.dtos;
 import com.fasterxml.jackson.annotation.JsonFormat;
 import com.webertech.helpdesk.domain.Tecnico;
 import com.webertech.helpdesk.domain.enums.Perfil;
+import org.hibernate.validator.constraints.br.CPF;
 
 import javax.persistence.*;
 import javax.validation.constraints.NotNull;
