@@ -11,3 +11,8 @@
 img {
 	height: 20rem;
 }
+
+span {
+	display: flex;
+	justify-content: center;
+}
