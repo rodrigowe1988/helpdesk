@@ -1,0 +1,13 @@
+.example-card {
+	margin-top: 20px;
+}
+
+.card {
+	width: 90%;
+	margin: auto;
+	background-color: rgb(245, 235, 235);
+}
+
+img {
+	height: 20rem;
+}
