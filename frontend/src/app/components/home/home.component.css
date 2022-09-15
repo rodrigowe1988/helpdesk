@@ -1,11 +1,8 @@
-.example-card {
-	margin-top: 20px;
-}
-
 .card {
 	width: 90%;
-	margin: auto;
-	background-color: rgb(245, 235, 235);
+	margin: 1rem auto;
+	background-color: rgb(235, 235, 235);
+
 }
 
 img {
@@ -16,3 +13,5 @@ span {
 	display: flex;
 	justify-content: center;
 }
+
+
